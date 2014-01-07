@@ -7,4 +7,4 @@ UP=`uptime`
 echo $FREE
 echo $SWAP
 echo $UP
-echo "Brutal"
+echo "by.Brutal"

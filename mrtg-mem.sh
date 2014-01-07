@@ -8,3 +8,4 @@ echo $FREE
 echo $SWAP
 echo $UP
 echo "by.Brutal"
+

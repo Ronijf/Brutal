@@ -5,7 +5,7 @@
 # Revisi 1:
 # Penambahan config agar proxy menjadi super elite
 # header_access Via deny all
-#	header_access Forwarded-For deny all
+# header_access Forwarded-For deny all
 # header_access X-Forwarded-For deny all
 # 
 
